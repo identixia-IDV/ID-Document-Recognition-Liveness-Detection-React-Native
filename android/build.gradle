@@ -111,7 +111,7 @@ dependencies {
     def fetched = file("${projectDir}/libs/documentreadersdk.aar")
     fetched.parentFile.mkdirs()
     try {
-      new URL("https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-Android/releases/download/v1.0.0/documentreadersdk.aar").withInputStream { input ->
+      new URL("https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-Android/releases/latest/download/documentreadersdk.aar").withInputStream { input ->
         fetched.withOutputStream { out -> out << input }
       }
     } catch (Exception e) {
