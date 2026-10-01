@@ -133,9 +133,9 @@ Demo ids: Android `com.identixia.documentreader` · iOS `com.identixia.documentr
 
 The code below shows how to use the license:
 
-[https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/c587bb8ab93dbd86a9a536d87a345f2a1f66d26b/example/src/license.ts#L13-L21](https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/c587bb8ab93dbd86a9a536d87a345f2a1f66d26b/example/src/license.ts#L13-L21)
+[https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/479765fee895ca3facd88dfc3dd6887b522c4ab6/example/src/license.ts#L13-L21](https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/479765fee895ca3facd88dfc3dd6887b522c4ab6/example/src/license.ts#L13-L21)
 
-[https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/c587bb8ab93dbd86a9a536d87a345f2a1f66d26b/example/src/SdkContext.tsx#L61-L75](https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/c587bb8ab93dbd86a9a536d87a345f2a1f66d26b/example/src/SdkContext.tsx#L61-L75)
+[https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/479765fee895ca3facd88dfc3dd6887b522c4ab6/example/src/SdkContext.tsx#L61-L75](https://github.com/identixia-IDV/ID-Document-Recognition-Liveness-Detection-React-Native/blob/479765fee895ca3facd88dfc3dd6887b522c4ab6/example/src/SdkContext.tsx#L61-L75)
 
 Capabilities: document recognition and/or document liveness. Please [contact us](#-contact) to get a license for **your own app**.
 
