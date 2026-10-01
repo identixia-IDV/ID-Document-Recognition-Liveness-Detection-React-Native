@@ -2,14 +2,24 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "document-reader-sdk": ["./src/index"]
+      "document-reader-sdk": [
+        "./src/index"
+      ],
+      "document-reader-sdk/locate": [
+        "./src/locate/index"
+      ],
+      "document-reader-sdk/*": [
+        "./src/*"
+      ]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "jsx": "react-jsx",
-    "lib": ["ESNext"],
+    "lib": [
+      "ESNext"
+    ],
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "noFallthroughCasesInSwitch": true,
